@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Like I Want You",
+  "base_artist": "GIVĒON",
+  "createdAt": "2026-02-24T14:16:39.420431Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Like I Want You (Audio)",
+      "artist": "Giveon",
+      "has_synced": true,
+      "path": "select/01_Like_I_Want_You_(Audio)_Giveon.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Like I Want You",
+      "artist": "Giveon",
+      "has_synced": true,
+      "path": "select/02_Like_I_Want_You_Giveon.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "LIKE I WANT YOU",
+      "artist": "Giveon",
+      "has_synced": true,
+      "path": "select/03_LIKE_I_WANT_YOU_Giveon.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Like I Want You",
+      "artist": "Giveon",
+      "has_synced": true,
+      "path": "select/04_Like_I_Want_You_Giveon.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Giveon - Like I Want You",
+      "artist": "Giveon",
+      "has_synced": true,
+      "path": "select/05_Giveon_-_Like_I_Want_You_Giveon.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Like I Want You",
+      "artist": "Giveon",
+      "has_synced": true,
+      "path": "select/06_Like_I_Want_You_Giveon.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Like I Want You",
+      "artist": "Giveon",
+      "has_synced": true,
+      "path": "select/07_Like_I_Want_You_Giveon.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Like I Want You",
+      "artist": "Giveon",
+      "has_synced": true,
+      "path": "select/08_Like_I_Want_You_Giveon.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Like I Want You (Audio)",
+      "artist": "Givēon",
+      "has_synced": true,
+      "path": "select/09_Like_I_Want_You_(Audio)_Givēon.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Like I Want You",
+      "artist": "Givēon",
+      "has_synced": true,
+      "path": "select/10_Like_I_Want_You_Givēon.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Like I Want You",
+      "artist": "GIVĒON",
+      "has_synced": true,
+      "path": "select/11_Like_I_Want_You_GIVĒON.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "LIKE I WANT YOU",
+      "artist": "ZACH TOP",
+      "has_synced": false,
+      "path": "select/12_LIKE_I_WANT_YOU_ZACH_TOP.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Like I Want You",
+      "artist": "Giveon - Topic",
+      "has_synced": true,
+      "path": "select/13_Like_I_Want_You_Giveon_-_Topic.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Like I Want You - Acoustic",
+      "artist": "Giveon",
+      "has_synced": true,
+      "path": "select/14_Like_I_Want_You_-_Acoustic_Giveon.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Like I Want You (Audio)",
+      "artist": "Giveon",
+      "has_synced": true,
+      "path": "select/15_Like_I_Want_You_(Audio)_Giveon.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Like I Want You",
+      "artist": "Giveon",
+      "has_synced": true,
+      "path": "select/16_Like_I_Want_You_Giveon.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Like I Want You – Acoustic",
+      "artist": "Giveon",
+      "has_synced": true,
+      "path": "select/17_Like_I_Want_You_–_Acoustic_Giveon.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Like I Want You",
+      "artist": "GIVĒON",
+      "has_synced": true,
+      "path": "select/18_Like_I_Want_You_GIVĒON.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Like I Want You (Paused)",
+      "artist": "GIVĒON",
+      "has_synced": true,
+      "path": "select/19_Like_I_Want_You_(Paused)_GIVĒON.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LIKE I WANT YOU",
+      "artist": "GIVĒON",
+      "has_synced": false,
+      "path": "select/pl_01_LIKE_I_WANT_YOU_GIVĒON.txt"
+    }
+  ]
+}
